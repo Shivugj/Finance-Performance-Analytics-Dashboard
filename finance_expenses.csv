@@ -1,0 +1,73 @@
+Month,Year,Category,Amount,Budget,Department
+January,2024,Salaries,180000,185000,HR
+January,2024,Marketing,45000,50000,Marketing
+January,2024,Rent & Utilities,28000,28000,Admin
+January,2024,Technology,22000,25000,IT
+January,2024,Travel,8500,10000,Sales
+January,2024,Training,5000,6000,HR
+February,2024,Salaries,180000,185000,HR
+February,2024,Marketing,52000,50000,Marketing
+February,2024,Rent & Utilities,28000,28000,Admin
+February,2024,Technology,24000,25000,IT
+February,2024,Travel,9500,10000,Sales
+February,2024,Training,4800,6000,HR
+March,2024,Salaries,182000,185000,HR
+March,2024,Marketing,61000,60000,Marketing
+March,2024,Rent & Utilities,28000,28000,Admin
+March,2024,Technology,25000,25000,IT
+March,2024,Travel,12000,10000,Sales
+March,2024,Training,6200,6000,HR
+April,2024,Salaries,182000,185000,HR
+April,2024,Marketing,58000,60000,Marketing
+April,2024,Rent & Utilities,28500,28000,Admin
+April,2024,Technology,23000,25000,IT
+April,2024,Travel,10500,10000,Sales
+April,2024,Training,5500,6000,HR
+May,2024,Salaries,184000,185000,HR
+May,2024,Marketing,68000,65000,Marketing
+May,2024,Rent & Utilities,28500,28000,Admin
+May,2024,Technology,26000,25000,IT
+May,2024,Travel,13000,12000,Sales
+May,2024,Training,6000,6000,HR
+June,2024,Salaries,184000,185000,HR
+June,2024,Marketing,72000,70000,Marketing
+June,2024,Rent & Utilities,29000,28000,Admin
+June,2024,Technology,27000,26000,IT
+June,2024,Travel,14000,12000,Sales
+June,2024,Training,6500,6000,HR
+July,2024,Salaries,185000,185000,HR
+July,2024,Marketing,65000,68000,Marketing
+July,2024,Rent & Utilities,29000,29000,Admin
+July,2024,Technology,26500,26000,IT
+July,2024,Travel,11000,12000,Sales
+July,2024,Training,5800,6000,HR
+August,2024,Salaries,186000,185000,HR
+August,2024,Marketing,78000,75000,Marketing
+August,2024,Rent & Utilities,29000,29000,Admin
+August,2024,Technology,28000,27000,IT
+August,2024,Travel,15000,14000,Sales
+August,2024,Training,7000,6500,HR
+September,2024,Salaries,187000,186000,HR
+September,2024,Marketing,85000,82000,Marketing
+September,2024,Rent & Utilities,29500,29000,Admin
+September,2024,Technology,29000,28000,IT
+September,2024,Travel,16000,15000,Sales
+September,2024,Training,7500,7000,HR
+October,2024,Salaries,188000,186000,HR
+October,2024,Marketing,92000,88000,Marketing
+October,2024,Rent & Utilities,29500,29000,Admin
+October,2024,Technology,30000,29000,IT
+October,2024,Travel,17000,16000,Sales
+October,2024,Training,8000,7500,HR
+November,2024,Salaries,190000,188000,HR
+November,2024,Marketing,102000,98000,Marketing
+November,2024,Rent & Utilities,30000,29500,Admin
+November,2024,Technology,32000,30000,IT
+November,2024,Travel,19000,18000,Sales
+November,2024,Training,8500,8000,HR
+December,2024,Salaries,192000,190000,HR
+December,2024,Marketing,118000,115000,Marketing
+December,2024,Rent & Utilities,30000,30000,Admin
+December,2024,Technology,34000,32000,IT
+December,2024,Travel,22000,20000,Sales
+December,2024,Training,9500,9000,HR
